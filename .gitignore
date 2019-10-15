@@ -4,8 +4,8 @@
 *.sln.docstates
 
 # VS
-.csproj
-.sln
+*.csproj
+*.sln
 
 # Build results
 .vs
