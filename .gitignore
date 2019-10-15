@@ -3,7 +3,9 @@
 *.user
 *.sln.docstates
 
+# VS
 .csproj
+.sln
 
 # Build results
 .vs
